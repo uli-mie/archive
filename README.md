@@ -12,23 +12,21 @@ Documentation:
 
 ## `aws_hmac_signer`: Product Advertising API REST Requests with PHP and Python
 
-One of the first implementation of the HMAC SHA256 signing procedure for accessing the Amazon Product Advertising API with REST requests. Both a PHP and a Python version is available that do the same.
+One of the first implementation of the HMAC SHA256 signing procedure for accessing the Amazon Product Advertising API with REST requests. Both a PHP and a Python version is available.
 
 Documentation:
 * <https://www.ulrichmierendorff.com/software/aws_hmac_signer.html>
 
 ## `antialiased_arcs`: Rendering Antialiased Filled Arcs, Ellipses and Circles with PHP and GD
 
-A simple yet effective method to render filled arcs with PHP.
-People used that to create pie diagrams and other dynamic visual effects. It might still be
-in use on certain websites.
+A simple yet effective method to render filled arcs with PHP. People used that to create pie diagrams and other dynamic visual effects. It might still be in use on certain websites.
 
 Documentation and end-user comments:
 * <https://www.ulrichmierendorff.com/software/antialiased_arcs.html>
 
 ## `opengl_blur`: Blurring on Graphics Cards without Shaders
 
-A demonstration on how to achieve a visual blurring effect without using shader programming by exploiting the texture filtering behaviour.
+A demonstration on how to achieve a visual blurring effect without using shader programming by making use of the texture filtering behaviour.
 
 Documentation and examples:
 * <https://www.ulrichmierendorff.com/software/opengl_blur.html>
